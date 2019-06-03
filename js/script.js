@@ -23,16 +23,16 @@ function init() {
             header.style.boxShadow = "none";
             topButton.style.display = "none";
         }
-        if (yPos > 1000) {
+        if (yPos > 1200) {
             weightCont.style.marginLeft = "0"
         }
         if (yPos > 1600) {
             alertCont.style.marginLeft = "0"
         }
-        if (yPos > 2100) {
+        if (yPos > 2300) {
             muscleCont.style.marginLeft = "0"
         }
-        if (yPos > 2900) {
+        if (yPos > 3100) {
             hidden.style.opacity = "1";
         }
     }
